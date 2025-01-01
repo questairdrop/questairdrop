@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @questairdrop 🪂
 
-- Telegram channel       : [Telegram channel](https://t.me/questairdrop))
+- Telegram channel       : [Telegram channel](https://t.me/questairdrop)
 - X / Twitter            : [X / Twitter](https://x.com/questmeairdrop)
 
 🆓 I will share my scripts for free.
